@@ -353,19 +353,6 @@ Flag large expenditure-versus-utilisation divergences for item-level investigati
 
 ---
 
-## Portfolio Summary
-
-> Power BI dashboard analysing Australian Pharmaceutical Benefits Scheme (PBS) data (2015–2026) to identify expenditure and utilisation trends across therapeutic drug classes. Built a validated star-schema data model from raw AIHW government data, developed DAX measures for trend and growth analysis, and derived business insights linking expenditure patterns to real-world PBS policy events.
-
-## Resume Bullets
-
-- Built an end-to-end Power BI analytics project using Australian government AIHW/PBS healthcare data, covering **18,000+ records** through data cleaning, star-schema modelling and DAX measure development.
-- Identified and resolved multiple analytical integrity risks, including aggregate-row leakage, national/state aggregation issues, inconsistent category labels and measurement-precision artifacts.
-- Derived evidence-based business insights from therapeutic-class expenditure and utilisation trends, including corroborating the 2016 antiinfectives expenditure spike against official AIHW evidence on hepatitis C DAA PBS listings.
-- Documented a nine-point data-quality and limitations assessment covering source precision, preliminary observations, aggregation risks, partial-year data and analytical scope.
-
----
-
 ## Reproduction Notes
 
 To reproduce the project:
