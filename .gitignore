@@ -1,0 +1,16 @@
+# Power BI temp/backup files
+*.pbix.bak
+~$*.pbix
+.pbi/
+
+# Power BI local/cache artifacts
+*.tmp
+*.temp
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
